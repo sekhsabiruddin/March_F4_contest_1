@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/March_F4_contest_1.git/static/css/main.7e620faa.css",
+    "main.js": "/March_F4_contest_1.git/static/js/main.2a868079.js",
+    "index.html": "/March_F4_contest_1.git/index.html",
+    "main.7e620faa.css.map": "/March_F4_contest_1.git/static/css/main.7e620faa.css.map",
+    "main.2a868079.js.map": "/March_F4_contest_1.git/static/js/main.2a868079.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e620faa.css",
+    "static/js/main.2a868079.js"
+  ]
+}
